@@ -7,4 +7,6 @@ CREATE TABLE client(
 
 ALTER TABLE client ADD CONSTRAINT pk_client
 PRIMARY KEY (id_personne);
+
+--Ajouter le FK de personne
 --Ajouter le FK de classe
