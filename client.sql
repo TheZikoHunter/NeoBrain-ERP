@@ -5,4 +5,6 @@ CREATE TABLE client(
     id_classe NUMBER
 );
 
+ALTER TABLE client ADD CONSTRAINT pk_client
+PRIMARY KEY (id_personne);
 --Ajouter le FK de classe
