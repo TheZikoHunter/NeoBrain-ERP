@@ -7,3 +7,8 @@ CREATE TABLE transaction(
 
 ALTER TABLE transaction ADD CONSTRAINT fk_transaction_commandevente
 FOREIGN KEY (id_commande_vente) REFERENCES commandevente(id_commande_vente);
+
+CREATE SEQUENCE seq_transaction_id
+START WITH 1
+INCREMENT BY 1
+NOCACHE;
