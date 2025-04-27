@@ -15,9 +15,9 @@ https://douihzakaria.notion.site/tuturiel-git
 
 ## Tâches SQL & Triggers (travail personnel)
 # DOUIH
-Tables en ROUGE
+Tables en ROUGE ✅
 # ELFATIHI
-Tables en ROSE
+Tables en ROSE ✅
 # HASIDI
 Tables en VIOLET
 # HMAIMI
