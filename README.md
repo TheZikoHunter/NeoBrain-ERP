@@ -17,7 +17,7 @@ https://douihzakaria.notion.site/tuturiel-git
 # DOUIH
 Tables en ROUGE ✅
 # ELFATIHI
-Tables en ROSE
+Tables en ROSE ✅
 # HASIDI
 Tables en VIOLET
 # HMAIMI
