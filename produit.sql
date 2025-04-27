@@ -14,3 +14,6 @@ PRIMARY KEY (id_produit, id_categorie, id_entreprise);
 
 ALTER TABLE produit ADD CONSTRAINT fk_produit_categorie
 FOREIGN KEY (id_categorie) REFERENCES categorie(id_categorie);
+
+ALTER TABLE produit ADD CONSTRAINT fk_produit_entreprise
+FOREIGN KEY (id_entreprise) REFERENCES entreprise(id_entreprise);
