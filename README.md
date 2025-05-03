@@ -1,11 +1,11 @@
 # Affectation Développement Logiciel
 ## Délai : le 18 Mai
 
-##Tâches
+## Tâches
 # ERP Desktop
-DOUIH Zakaria\\
-NAITELHAJ Abderrahmane
-HMAIMI Achraf
+- DOUIH Zakaria
+- NAITELHAJ Abderrahmane
+- HMAIMI Achraf
 # Site web
-ELFATIHI Mohamed
-HASIDI Ilyase
+- ELFATIHI Mohamed
+- HASIDI Ilyase
